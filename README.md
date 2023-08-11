@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 
 # Hello! 👋
 
-My name's Andrew and I'm a Software Engineer from Denver. I recently graduated from Flatiron School's Full Stack Software Engineering program where I gained skills and experience using technologies including JavaScript, React, Ruby, Rails, SQL, HTML, and CSS. My mission now is to...... 
+My name's Andrew and I'm a Software Engineer from Denver. I recently graduated from Flatiron School's Full Stack Software Engineering program where I gained skills and experience using technologies including JavaScript, React, Ruby, Rails, SQL, HTML, and CSS. My mission now is to......
+
+
+## Let's Connect
+
+
 
 ## Technology Stack:
 [![Technology Stack](https://skillicons.dev/icons?i=js,react,ruby,rails,sqlite,css,html,postman,vscode,github,py)](https://skillicons.dev)
