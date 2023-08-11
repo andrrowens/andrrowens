@@ -33,6 +33,7 @@ The following steps are to set up and get started with the backend of the projec
 ## Background:
 
 ## Currently Learning:
+[![Technology Stack](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ## Currently Working On:
 
