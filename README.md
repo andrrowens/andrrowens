@@ -30,9 +30,7 @@ My name's Andrew and I'm a Software Engineer from Denver. I recently graduated f
 
 
 
-[![linkedin](https://user-images.githubusercontent.com/114885018/259902187-9552df09-d0fe-41d8-8c7b-3e6be17f7fe6.svg)][1]
-[1]: https://www.linkedin.com/in/andrew-owens-denver/
-
+![https://www.linkedin.com/in/andrew-owens-denver/](https://user-images.githubusercontent.com/114885018/259902187-9552df09-d0fe-41d8-8c7b-3e6be17f7fe6.svg)
 
 ## Technology Stack:
 [![Technology Stack](https://skillicons.dev/icons?i=js,react,ruby,rails,sqlite,css,html,postman,vscode,github,py)](https://skillicons.dev)
