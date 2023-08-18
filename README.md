@@ -9,11 +9,15 @@ Born and raised on the East Coast, the mountains were calling and I'm now lucky 
 ## Technology Stack:
 [![Technology Stack](https://skillicons.dev/icons?i=js,react,ruby,rails,sqlite,css,html,postman,github,vscode)](https://skillicons.dev)
 
-## Let's Connect:
-[![linkedin](https://user-images.githubusercontent.com/114885018/259907754-5b6e5385-5a1f-4170-a362-ab0e9fa37a93.png)](https://www.linkedin.com/in/andrew-owens-denver/)
+## Project Demo Videos:
+
+[![rooted plant exchange](https://user-images.githubusercontent.com/114885018/259907754-5b6e5385-5a1f-4170-a362-ab0e9fa37a93.png)](https://www.loom.com/share/2972fb5fa9ef4c8c8817d8eda7437e3d?sid=4d6be6a7-3c96-4668-ac4a-340279816f6f)
 
 ## Currently Learning:
 [![Technology Stack](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+## Let's Connect:
+[![linkedin](https://user-images.githubusercontent.com/114885018/259907754-5b6e5385-5a1f-4170-a362-ab0e9fa37a93.png)](https://www.linkedin.com/in/andrew-owens-denver/)
 
 ## Currently Reading:
 The Monkey Wrench Gang by Edward Abbey
