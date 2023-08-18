@@ -4,7 +4,7 @@
 My name's Andrew and I'm a Software Engineer from Denver. I recently graduated from Flatiron School's Full Stack Software Engineering program and am open to new and exciting opportunities.
 
 ## Bio:
-Born and raised on the East Coast, the mountains were calling and I'm now lucky enough to call Colorado home. Prior to software development, I worked in sales and strategy roles within the advertising industry. It was my interest in what was going on "under the hood" of the various adtech platforms I used which initially lit the spark and inspired me to learn how to code and acquire other technical skills. I consider myself to be a collector of hobbies but my primary passions include snowboarding, sustainability, and international travel. 
+Born and raised on the East Coast, the mountains were calling and I'm now lucky enough to call Colorado home. Prior to software development, I worked in sales and strategy roles within the advertising industry. It was my interest in what was going on "under the hood" of the various adtech platforms I used which initially lit the spark and inspired me to learn how to code and acquire other technical skills. I consider myself to be a collector of hobbies but some of my passions include snowboarding, sustainability, and international travel. 
 
 ## Technology Stack:
 [![Technology Stack](https://skillicons.dev/icons?i=js,react,ruby,rails,sqlite,css,html,postman,github,vscode)](https://skillicons.dev)
